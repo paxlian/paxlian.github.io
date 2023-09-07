@@ -1,0 +1,41 @@
+body {
+
+background-color: aqua;
+
+
+
+color: black;
+
+padding: 50px;
+}
+
+p{
+
+
+ background-color: blue;
+
+margin-right: 10%;
+margin-left: 10%;
+ padding: 30px;
+ border-radius: 40%;
+
+font-family: fantasy;
+
+
+}
+
+H3{
+
+background-color: blue;
+padding: 15px;
+border-radius: 30%;
+}
+
+button{
+
+background-color: blue;
+padding: 3px;
+border-radius: 50%;
+
+}
+
