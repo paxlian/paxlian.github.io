@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: blue;
+    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/047/264/josh_hutcherson_whistle.jpg);
+    background-size: cover;
+}
+
+h2 {
+color: blue;
+}
+
+.padding-sidor {
+    padding-left: 8vw;
+    padding-right: 8vw;
+}
