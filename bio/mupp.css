@@ -1,7 +1,7 @@
 body {
     background-color: black;
     color: blue;
-    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/047/264/josh_hutcherson_whistle.jpg);
+    background-image: url(https://img.buzzfeed.com/buzzfeed-static/static/2021-05/23/18/enhanced/e6dd9f2189d1/original-4488-1621796181-14.jpg?crop=1246:652;4,0%26downsize=1250:*);
     background-size: cover;
 }
 
@@ -14,8 +14,12 @@ color: blue;
     padding-right: 8vw;
 }
 .box{
-background-color: crimson;
+background-color: black;
 margin-left: 550px;
 margin-right: 550px;
 border-radius: 50%;
+padding-top: 30PX;
+padding-bottom: 50px;
+width: 21vw;
+
 }
