@@ -1,0 +1,20 @@
+body {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    gap: 30px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: beige;
+}
+
+.mat{
+width: 200px;
+
+}
+.boobies{
+padding-right: 60vw;
+margin-top: 20vw;
+}
+.bög{
+    padding-top: 80px;
+    font-style: unset;
+}
