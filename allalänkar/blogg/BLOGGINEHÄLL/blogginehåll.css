@@ -1,0 +1,13 @@
+body{
+    background-color: crimson;
+
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+
+
+}
+
+img {
+    width: 800px;
+}
